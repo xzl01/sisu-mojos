@@ -13,7 +13,7 @@ Build-Depends:
  libsisu-inject-java (>= 0.3.4),
  libslf4j-java (>= 1.6.4),
  maven-debian-helper (>= 2.1)
-Standards-Version: 4.5.1
+Standards-Version: 4.6.2
 Vcs-Git: https://salsa.debian.org/java-team/sisu-mojos.git
 Vcs-Browser: https://salsa.debian.org/java-team/sisu-mojos
 Homepage: https://www.eclipse.org/sisu/
